@@ -2,7 +2,7 @@
 ![imags](https://github.com/cuiziwenn/git/blob/main/git.png)
 
 ## git工作流程
-![imags](https://github.com/cuiziwenn/git/blob/main/git%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png)
+![imags](https://github.com/cuiziwenn/imgesfile/blob/master/git1.png)
 
 ### Git 基本操作
 
