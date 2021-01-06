@@ -1,5 +1,5 @@
-# git
-
+#git
+===
 ![imags](https://github.com/cuiziwenn/git/blob/main/git.png)
 
 # git工作流程
@@ -7,9 +7,9 @@
 
 ## Git 基本操作
 
-git init - 初始化仓库。
+## git init - 初始化仓库。
 
-git add . - 添加文件到暂存区。
+*  git add . - 添加文件到暂存区。
 
 git commit - 将暂存区内容添加到仓库中
 
