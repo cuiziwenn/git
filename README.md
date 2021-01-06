@@ -1,5 +1,5 @@
 # git
-![imags](https://github.com/cuiziwenn/git/blob/main/git.png)
+![imags](https://github.com/cuiziwenn/imgesfile/blob/master/git.png)
 
 ## git工作流程
 ![imags](https://github.com/cuiziwenn/imgesfile/blob/master/git1.png)
